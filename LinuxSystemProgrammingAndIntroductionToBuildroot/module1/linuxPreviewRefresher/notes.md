@@ -9,3 +9,9 @@
 - Open source, modifiable
 - Active community
 - No vendor lock-in
+
+## Why use the command line?
+- it is the only thing linux system has
+    - this includes your embedded system
+- it is probably the only thing you have when troubleshooting problem
+- it is often the fastest, relible and easiest way to remotely access a system
