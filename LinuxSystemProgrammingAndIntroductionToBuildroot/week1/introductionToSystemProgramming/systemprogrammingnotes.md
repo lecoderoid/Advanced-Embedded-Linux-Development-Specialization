@@ -9,7 +9,7 @@
 ## Cornerstone of System Programming
 - System Calls (syscalls)
     - kernel function invocations from user space (read(), write()). Roughly 300 total
-    - shared subset of ~90% implemented by all architectures on linux
+ f   - shared subset of ~90% implemented by all architectures on linux
 - C library (libc)
     - GNU libc (glibc) wrappers for syscalls, threading support and applications
 - C Compiler/linker (toolchain)
